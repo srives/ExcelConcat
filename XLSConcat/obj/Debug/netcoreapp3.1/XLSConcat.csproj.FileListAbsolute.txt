@@ -1,0 +1,13 @@
+C:\repos\ExcelConcat\XLSConcat\bin\Debug\netcoreapp3.1\XLSConcat.exe
+C:\repos\ExcelConcat\XLSConcat\bin\Debug\netcoreapp3.1\XLSConcat.deps.json
+C:\repos\ExcelConcat\XLSConcat\bin\Debug\netcoreapp3.1\XLSConcat.runtimeconfig.json
+C:\repos\ExcelConcat\XLSConcat\bin\Debug\netcoreapp3.1\XLSConcat.runtimeconfig.dev.json
+C:\repos\ExcelConcat\XLSConcat\bin\Debug\netcoreapp3.1\XLSConcat.dll
+C:\repos\ExcelConcat\XLSConcat\bin\Debug\netcoreapp3.1\XLSConcat.pdb
+C:\repos\ExcelConcat\XLSConcat\obj\Debug\netcoreapp3.1\XLSConcat.csprojAssemblyReference.cache
+C:\repos\ExcelConcat\XLSConcat\obj\Debug\netcoreapp3.1\XLSConcat.AssemblyInfoInputs.cache
+C:\repos\ExcelConcat\XLSConcat\obj\Debug\netcoreapp3.1\XLSConcat.AssemblyInfo.cs
+C:\repos\ExcelConcat\XLSConcat\obj\Debug\netcoreapp3.1\XLSConcat.csproj.CoreCompileInputs.cache
+C:\repos\ExcelConcat\XLSConcat\obj\Debug\netcoreapp3.1\XLSConcat.dll
+C:\repos\ExcelConcat\XLSConcat\obj\Debug\netcoreapp3.1\XLSConcat.pdb
+C:\repos\ExcelConcat\XLSConcat\obj\Debug\netcoreapp3.1\XLSConcat.genruntimeconfig.cache
